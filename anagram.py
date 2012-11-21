@@ -12,15 +12,15 @@ class Anagrama:
 	
 	def isAnagram(self):	
 		"""
-        Autor:   NicolasM
-        Fecha:   2012/10/14
-        Detalle: compara una cadena y retorna True si es un anagrama
-
-        Parametros:
-         - No aplica.
-        Retorno:
-         - Boolean
-    	"""
+	        Autor:   NicolasM
+	        Fecha:   2012/10/14
+	        Detalle: compara una cadena y retorna True si es un anagrama
+	
+	        Parametros:
+	         - No aplica.
+	        Retorno:
+	         - Boolean
+    		"""
 		str1_list = list(self.s1)
 		str1_list.sort()
 		str2_list = list(self.s2)
