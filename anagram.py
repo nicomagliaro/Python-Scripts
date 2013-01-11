@@ -38,4 +38,4 @@ if __name__ == '__main__':
 		print "Es un anagrama"
 	else:
 		print "No es un anagrama"	
-	input("Presione cualquier tecla para salir")	
+	input("Presione cualquier tecla para detener la ejecucion de este programa")	
